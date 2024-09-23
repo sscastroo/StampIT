@@ -984,7 +984,7 @@ nav a:hover {
         margin: 0; /* Quitar el margen */
         display: flex; /* Hacer que los elementos sean flexibles y se alineen en una fila */
         text-align: center;
-        margin-left: 250px;
+        margin-left: 500px;
     }
     
     
